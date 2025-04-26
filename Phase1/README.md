@@ -95,10 +95,3 @@ The work was done through Teams meetings, where each member participated to comp
 ## 📷 Screenshots Location
 
 All evidence screenshots are available in the `/steps` folder and properly named for easy reference.
-
----
-
-## 📝 Notes
-
-- All attacks were performed in an isolated, safe virtual environment for educational purposes.
-- No systems outside the lab setup were affected.
