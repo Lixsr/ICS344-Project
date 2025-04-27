@@ -35,7 +35,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 
 - Verified system settings and SSH access before applying next layers of defense.
 
-![System After ](phase%203%20defense%201%20complete%20with%20no%20attacks%203.PNG)
+![System After ](Steps/phase%203%20defense%201%20complete%20with%20no%20attacks%203.PNG)
 
 ---
 
@@ -43,7 +43,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 
 - Applying stronger defenses.
 
-![Before Defense 2](phase%203%20system%20before%20defense%202%204.PNG)
+![Before Defense 2](Steps/phase%203%20system%20before%20defense%202%204.PNG)
 
 ---
 
@@ -52,7 +52,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 - Stopped SSH services from being running.
 - SSH service is now stopped meaning it will not accept any traffic.
 
-![Defense 2 Completed](phase%203%20defense%202%20stopping%20ssh%205.PNG)
+![Defense 2 Completed](Steps/phase%203%20defense%202%20stopping%20ssh%205.PNG)
 
 ---
 
@@ -61,7 +61,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 - Manually stopped SSH service using `sudo service ssh stop`.
 - This blocks any new SSH sessions even if the attacker knows the new port.
 
-![Stopping SSH Service](phase%203%20defense%202%20stopping%20ssh%205.PNG)
+![Stopping SSH Service](Steps/phase%203%20defense%202%20stopping%20ssh%205.PNG)
 
 ---
 
@@ -69,7 +69,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 
 - Connection messages observed.
 
-![D3](phase%203%20before%20defense%203%207.PNG)
+![D3](Steps/phase%203%20before%20defense%203%207.PNG)
 
 ---
 
@@ -82,12 +82,12 @@ sudo apt-get purge openssh-server -y
 sudo apt-get autoremove -y
 
 ```
-![D3](phase%203%20defense%203%20removing%20SSH%20server%208.PNG)
+![D3](Steps/phase%203%20defense%203%20removing%20SSH%20server%208.PNG)
 
 ### Step 9: Result of Defense 3
 
 - Connection messages observed.
 
-![D3](phase%203%20after%20defense%203%209.PNG)
+![D3](Steps/phase%203%20after%20defense%203%209.PNG)
 
 ---
