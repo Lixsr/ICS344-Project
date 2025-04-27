@@ -25,7 +25,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - We successfully launched Splunk in the browser to start the analysis.
 
-![Splunk Interface](phase%20splunk%20interface%201.PNG)
+![Splunk Interface](phase_2_splunk_interface_1.PNG)
 
 ---
 
