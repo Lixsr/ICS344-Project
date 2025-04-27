@@ -57,7 +57,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Searched for SSH login attempts in the uploaded victim logs.
 
-![Logs of Victim](phase_2_logs_victim_5.PNG)
+![Logs of Victim](Steps/phase_2_logs_victim_5.PNG)
 
 ---
 
@@ -89,7 +89,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Visualization clearly showed the success and failure SSH login attempts split.
 
-![Success vs Failure](Steps/phase_2_s_vs_f_6....PNG)
+![Success vs Failure](Steps/phase_2_s_vs_f_6.PNG)
 
 ---
 
