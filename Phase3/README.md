@@ -27,7 +27,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 - Edited `/etc/ssh/sshd_config` to change SSH default port from **22** to **2222**.
 - This reduces the chance of automated attacks that target port 22.
 
-![Changing SSH Port](Steps/phase%203%20before%20defense%201%20changing%20ssh%20port%20.PNG)
+![Changing SSH Port](Steps/phase%203%20before%20defense%201%20changing%20ssh%20port%202.PNG)
 
 ---
 
@@ -82,7 +82,7 @@ sudo apt-get purge openssh-server -y
 sudo apt-get autoremove -y
 
 ```
-![D3](Steps/phase%203%20defense%203%20removing%20SSH%20server%208.PNG)
+![D4](Steps/phase%203%20defense%203%20removing%20SSH%20server%208.PNG)
 
 ### Step 9: Result of Defense 3
 
