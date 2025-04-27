@@ -25,7 +25,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - We successfully launched Splunk in the browser to start the analysis.
 
-![Splunk Interface](phase_2_splunk_interface_1.PNG)
+![Splunk Interface](Steps/phase_2_splunk_interface_1.PNG)
 
 ---
 
@@ -33,7 +33,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Verified that Splunk was running properly and ready to add data.
 
-![Splunk Home Page](phase%202%20splunk%20home%20page%202.PNG)
+![Splunk Home Page](Steps/phase_2_splunk_home_page_2.PNG)
 
 ---
 
@@ -41,7 +41,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Uploaded the victim's `auth.log` file (`victim_auth.log`) for analysis.
 
-![Adding Victim Logs](phase%202%20adding%20victim%204.PNG)
+![Adding Victim Logs](Steps/phase_2_adding_victim_4.PNG)
 
 ---
 
@@ -49,7 +49,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Attempted to monitor any relevant attacker-side logs.
 
-![Attacker Logs](phase%202%20attacker%20logs%203.PNG)
+![Attacker Logs](Steps/phase_2_attacker_logs_3.PNG)
 
 ---
 
@@ -57,7 +57,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Searched for SSH login attempts in the uploaded victim logs.
 
-![Logs of Victim](phase%202%20logs%20of%20victim%20correct%205.PNG)
+![Logs of Victim](phase_2_logs_victim_5.PNG)
 
 ---
 
@@ -65,7 +65,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Created a **Line Chart** to show the number of SSH login attempts over time.
 
-![Line Chart](phase%202%20line%20chart%207.PNG)
+![Line Chart](Steps/phase_2_line_7.PNG)
 
 ---
 
@@ -73,7 +73,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Used Splunk query to generate the line chart visualization.
 
-![Line Chart Command](phase%202%20linechart%20command%208.PNG)
+![Line Chart Command](Steps/phase_2_line_command_8.PNG)
 
 ---
 
@@ -81,7 +81,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Created a **Pie Chart** showing the ratio of successful vs failed SSH login attempts.
 
-![Pie Chart](phase%202%20pie%20hcart%20command%209.PNG)
+![Pie Chart](Steps/phase_2_piet_command_9.PNG)
 
 ---
 
@@ -89,7 +89,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Visualization clearly showed the success and failure SSH login attempts split.
 
-![Success vs Failure](phase%202%20successful%20vs%20faileure%20....PNG)
+![Success vs Failure](Steps/phase_2_s_vs_f_6....PNG)
 
 ---
 
@@ -97,7 +97,7 @@ We visualized the attack behavior through dashboard pie charts, line charts, and
 
 - Created a **Table View** to list raw login attempts with timestamps.
 
-![Table View](phase%202%20table%20view%2010.PNG)
+![Table View](Steps/phase_2_table_view_10.PNG)
 
 ---
 
