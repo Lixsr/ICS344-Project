@@ -82,12 +82,12 @@ sudo apt-get purge openssh-server -y
 sudo apt-get autoremove -y
 
 ```
-![D4](Steps/phase%203%20defense%203%20removing%20SSH%20server%208.PNG)
+![Removing SSH Server](Steps/phase%203%20defense%203%20removing%20SSH%20server%208.png)
 
 ### Step 9: Result of Defense 3
 
 - Connection messages observed.
 
-![D3](Steps/phase%203%20after%20defense%203%209.PNG)
+![After Defense 3](Steps/phase%203%20after%20defense%203%209.png)
 
 ---
