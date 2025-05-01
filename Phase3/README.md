@@ -61,7 +61,7 @@ Each defense was tested before and after, and screenshots were taken to prove th
 - Manually stopped SSH service using `sudo service ssh stop`.
 - This blocks any new SSH sessions even if the attacker knows the new port.
 
-![Stopping SSH Service](Steps/phase%203%20defense%202%20stopping%20ssh%205.PNG)
+![Stopping SSH Service](Steps/phase%203%20result%20of%20defense%202%206.PNG)
 
 ---
 
