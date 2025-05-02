@@ -27,6 +27,12 @@ Each phase is documented in its own folder with detailed steps, screenshots, scr
 
 ---
 
+## 📚 Work Distribution
+
+The work was done through Teams meetings, where each member participated to complete the project.
+
+---
+
 ## 📋 Notes
 
 - All attacks, analysis, and defenses were performed in a controlled, isolated virtual environment.
